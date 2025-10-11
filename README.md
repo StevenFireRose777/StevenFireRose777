@@ -1,6 +1,7 @@
 ## Hi there! 👋
 
 - Welcome to my Github, feel free to check out some projects I made!
+  - https://github.com/StevenFireRose777/Foolgle
 - Here some Fun Facts about me:
   - I love Dragon Ball
   - And I like to draw as a hobby which I have been doing for about 5+ years so far!
