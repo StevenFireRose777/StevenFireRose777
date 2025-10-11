@@ -2,7 +2,7 @@
 
 - Welcome to my Github, feel free to check out some projects I made!
   - https://github.com/StevenFireRose777/Foolgle (I like this one)
-  - 
+  - https://github.com/StevenFireRose777/NOT-Twitter (will get too soon!)
 - Here some Fun Facts about me:
   - I love Dragon Ball
   - And I like to draw as a hobby which I have been doing for about 5+ years so far!
