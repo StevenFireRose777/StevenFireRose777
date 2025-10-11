@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
+
+- Welcome to my Github, feel free to check out some projects I made!
+- Here some Fun Facts about me:
+  - I love Dragon Ball
+  - And I like to draw as a hobby which I have been doing for about 5+ years so far!
+- Other than that, have a good day! 
 
 <!--
 **StevenFireRose777/StevenFireRose777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
