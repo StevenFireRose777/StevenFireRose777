@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Heya!
 
 - Welcome to my Github, feel free to check out some projects I made!
   - https://github.com/StevenFireRose777/Foolgle (I like this one)
