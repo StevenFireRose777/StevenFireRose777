@@ -8,7 +8,7 @@
 
 
 [<img src="https://github.com/user-attachments/assets/d793d2f3-63ef-495d-be23-5cbf8b7f8674">](https://github.com/StevenFireRose777/sudoku_game)
-
+[<img src="https://github.com/user-attachments/assets/9f306884-b44a-474e-8839-ce4e34357603">](https://github.com/StevenFireRose777/HangMan-Game)
 
 [ASCII Art Generator Used: https://patorjk.com/software/taag/#p=display&f=Computer+1+B&t=--%3E+Sudoku+Game+%3C--&x=none&v=4&h=4&w=80&we=false&ft=thedraw]
 
