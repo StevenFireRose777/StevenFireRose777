@@ -1,10 +1,8 @@
 <img width="201" height="86" alt="image" src="https://github.com/user-attachments/assets/ec125b63-12ac-4fe9-9d47-4ed0bacecf53" />
 
+<img width="1461" height="100" alt="image" src="https://github.com/user-attachments/assets/d25b4f17-b738-4973-bac0-21fc30028c6c" />
+<img width="1184" height="86" alt="image" src="https://github.com/user-attachments/assets/e71de926-7fdc-4525-856f-c6b42ae0f51f" />
 
-
-- Welcome to my Github, feel free to check out some projects I made!
-  - https://github.com/StevenFireRose777/Foolgle (I like this one)
-  - https://github.com/StevenFireRose777/personal-web (currently working on)
 - Here some Fun Facts about me:
   - I love Dragon Ball and superhero media!!
   - And I like to draw as a hobby which I have been doing for about 5+ years so far!
