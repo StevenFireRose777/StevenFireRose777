@@ -4,8 +4,13 @@
 <img width="1461" height="100" alt="image" src="https://github.com/user-attachments/assets/d25b4f17-b738-4973-bac0-21fc30028c6c" /> <br />
 
 <img width="1184" height="86" alt="image" src="https://github.com/user-attachments/assets/e71de926-7fdc-4525-856f-c6b42ae0f51f" />
-
 <!-- Add Projects here -->
+
+
+[<img src="https://github.com/user-attachments/assets/d793d2f3-63ef-495d-be23-5cbf8b7f8674">](https://github.com/StevenFireRose777/sudoku_game)
+
+
+[ASCII Art Generator Used: https://patorjk.com/software/taag/#p=display&f=Computer+1+B&t=--%3E+Sudoku+Game+%3C--&x=none&v=4&h=4&w=80&we=false&ft=thedraw]
 
 <!--[tumblr_fbc83220222f266b2ce3aadb35f24bba_2cdfc255_500](https://github.com/user-attachments/assets/d50f0109-466c-4fb3-92bc-800cd45a5e99) -->
 
